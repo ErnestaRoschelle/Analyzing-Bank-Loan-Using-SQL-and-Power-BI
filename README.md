@@ -1,1 +1,1 @@
-# SQL-Interview-Prep
+# Interview-Prep
